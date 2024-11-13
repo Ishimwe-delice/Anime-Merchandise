@@ -30,11 +30,6 @@ nav a {
     color: white;
     text-decoration: none;
 }
-main{
-    display:flex;
-    flex-wrap:wrap;
-    flex-direction:row;
-}
 
 .product-grid {
     display: grid;
